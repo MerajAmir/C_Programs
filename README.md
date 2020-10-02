@@ -2,7 +2,7 @@
 
 Happy Hacktober! :octocat:  
 
-This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR.
+This is a beginner friendly repository made specifically for 'Hacktoberfest' that helps you get your first Pull Request.
 The programs are written in C and compiled using GCC. To run the programs in TurboC++ read port_to_turboC.md
 
 ## How to contribute to this repository
@@ -31,8 +31,8 @@ git push origin branch-name
 or
 * Add the file in the forked repository using upload file option then commit the changes in a new branch. 
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
+* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repository)
+* Wait for your Pull Request review and merge approval!
 
 If you are still facing any problem follow steps given in this [website](https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/)
 
