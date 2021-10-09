@@ -1,3 +1,5 @@
+hacktoberfest-accepted
+
 #include<stdio.h>   /*standard input output header*/
 #include<math.h>. /*Maths header*/
 int main ().       /*Main function with a return type 'int' */
