@@ -1,8 +1,8 @@
-#include<stdio.h>
-#include<math.h>
-int main ()
+#include<stdio.h>   /*standard input output header*/
+#include<math.h>. /*Maths header*/
+int main ().       /*Main function with a return type 'int' */
 {
-int num;
+int num; 
 float sqr,temp;
 printf("enter the number\n");
 scanf("%d",&num);
